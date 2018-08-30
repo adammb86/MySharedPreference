@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MySharedPreference</string>
+    <string name="name">Name</string>
+    <string name="adam_mukharil_bachtiar">Adam Mukharil Bachtiar</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="_123456">123456</string>
+    <string name="age">Age</string>
+    <string name="angka_umur">30</string>
+    <string name="love_harry_potter_series">Love Harry Potter Series</string>
+    <string name="of_course">Of Course</string>
+    <string name="save">Save</string>
+    <string name="ya">Ya</string>
+    <string name="tidak">Tidak</string>
+    <string name="email">Email</string>
+    <string name="nomor_handphone">Nomor Handphone</string>
+</resources>
